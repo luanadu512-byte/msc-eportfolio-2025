@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "swot.html",
+    "href": "swot.html",
+    "title": "SWOT Analysis",
+    "section": "",
+    "text": "Strengths (S):\n\nStrong foundation in statistics from undergraduate studies (regression, time series, multivariate analysis).\n\nExperience in mathematical modelling competitions and undergraduate dissertation.\n\nBasic programming skills in Python.\n\nWeaknesses (W):\n\nLimited knowledge of healthcare data and informatics.\n\nWeakness in English academic writing and oral presentation.\n\nNo prior experience with real-world health datasets (EHR, genomics).\n\nOpportunities (O):\n\nEnrolled in KCL’s ASMHI MSc programme, providing interdisciplinary training (statistics + informatics + healthcare).\n\nAccess to courses and dissertation project to learn advanced methods (causal inference, NLP, genomics).\n\nCareer services offering employability training and networking.\n\nThreats (T):\n\nHighly competitive job market for international graduates.\n\nSteep learning curve to adapt to cross-disciplinary content.\n\nLack of local research or industry background compared to UK peers."
+  },
+  {
+    "objectID": "swot.html#course-7bbg2014-bioinformatics-interpretation-and-data-quality-in-genome-analysis",
+    "href": "swot.html#course-7bbg2014-bioinformatics-interpretation-and-data-quality-in-genome-analysis",
+    "title": "SWOT Analysis",
+    "section": "Course: 7BBG2014 Bioinformatics, Interpretation and Data Quality in Genome Analysis",
+    "text": "Course: 7BBG2014 Bioinformatics, Interpretation and Data Quality in Genome Analysis\n\nStrengths (S):\n\nSolid statistical foundation supports understanding of data quality and interpretation.\n\n\nWeaknesses (W):\n\nLimited background in biology made it challenging to fully grasp the context of genomic data.\n\n\nOpportunities (O):\n\nHands-on training in Galaxy platform and Python applications provided practical experience in genomic analysis.\n\n\nThreats (T):\n\nComplexity and scale of genomic data may hinder future application without continued practice."
+  },
+  {
+    "objectID": "swot.html#course-7pavithi-introduction-to-health-informatics",
+    "href": "swot.html#course-7pavithi-introduction-to-health-informatics",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVITHI Introduction to Health Informatics",
+    "text": "Course: 7PAVITHI Introduction to Health Informatics\n\nStrengths (S):\n\nAbility to connect statistical concepts with health data management.\n\n\nWeaknesses (W):\n\nLimited familiarity with healthcare terminologies and standards such as HL7/FHIR.\n\n\nOpportunities (O):\n\nBuilt foundation for understanding EHR systems, essential for dissertation research and future career.\n\n\nThreats (T):\n\nRisk of superficial understanding if statistical and informatics knowledge are not fully integrated."
+  },
+  {
+    "objectID": "swot.html#course-7pavitpr-introduction-to-statistical-programming",
+    "href": "swot.html#course-7pavitpr-introduction-to-statistical-programming",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVITPR Introduction to Statistical Programming",
+    "text": "Course: 7PAVITPR Introduction to Statistical Programming\n\nStrengths (S):\n\nPrior exposure to Python accelerated learning in statistical programming.\n\n\nWeaknesses (W):\n\nInexperience with R and Stata required additional time to master.\n\n\nOpportunities (O):\n\nGained proficiency across multiple programming languages (Python, R, Stata), useful for research and industry.\n\n\nThreats (T):\n\nChallenge of learning multiple programming paradigms simultaneously created cognitive pressure."
+  },
+  {
+    "objectID": "swot.html#course-7pavitsm-introduction-to-statistical-modelling",
+    "href": "swot.html#course-7pavitsm-introduction-to-statistical-modelling",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVITSM Introduction to Statistical Modelling",
+    "text": "Course: 7PAVITSM Introduction to Statistical Modelling\n\nStrengths (S):\n\nFamiliarity with regression and modelling from undergraduate background.\n\n\nWeaknesses (W):\n\nShallow understanding of diagnostic checks and underlying assumptions.\n\n\nOpportunities (O):\n\nCourse highlighted model interpretation and applications to clinical datasets, relevant for future dissertation.\n\n\nThreats (T):\n\nRisk of over-focusing on computation without developing deeper critical thinking."
+  },
+  {
+    "objectID": "swot.html#course-7pavmale-machine-learning-for-health-and-bioinformatics",
+    "href": "swot.html#course-7pavmale-machine-learning-for-health-and-bioinformatics",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVMALE Machine Learning for Health and Bioinformatics",
+    "text": "Course: 7PAVMALE Machine Learning for Health and Bioinformatics\n\nStrengths (S):\n\nPrior experience with Python and statistical modelling supported initial understanding of algorithms.\n\nInterest in applying ML methods to biomedical datasets, linking theory to practice.\n\nWeaknesses (W):\n\nStruggled with the final exam, showing that conceptual mastery and coding application were not fully consolidated.\n\nDifficulty balancing theoretical ML concepts (e.g., bias-variance trade-off, hyperparameter tuning) with practical implementation.\n\nOpportunities (O):\n\nCourse provided exposure to advanced models (SVM, Random Forest, Neural Networks) in a health context.\n\nOpened pathways to integrating ML into dissertation work, especially for text and EHR data.\n\nThreats (T):\n\nPerformance gap in assessment may affect confidence in pursuing ML-heavy projects.\n\nRapidly evolving ML field requires continuous self-learning beyond course content."
+  },
+  {
+    "objectID": "swot.html#course-7pavmalm-multilevel-and-longitudinal-modelling",
+    "href": "swot.html#course-7pavmalm-multilevel-and-longitudinal-modelling",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVMALM Multilevel and Longitudinal Modelling",
+    "text": "Course: 7PAVMALM Multilevel and Longitudinal Modelling\n\nStrengths (S):\n\nBuilt on existing regression knowledge, with smooth transition into hierarchical and growth-curve models.\n\nGained hands-on experience in R with lme4/nlme, strengthening programming confidence.\n\nWeaknesses (W):\n\nInterpretation of random effects and model fit statistics required extra study time.\n\nLimited exposure to large-scale longitudinal datasets reduced practice opportunities.\n\nOpportunities (O):\n\nCourse directly linked to health applications, providing tools to analyse repeated measures and patient outcomes.\n\nHighly relevant for academic research and potential PhD projects.\n\nThreats (T):\n\nComplexity of multilevel models can lead to misinterpretation if not carefully validated.\n\nRisk of over-reliance on software without critical examination of assumptions."
+  },
+  {
+    "objectID": "swot.html#course-7pavnlps-natural-language-processing-nlp",
+    "href": "swot.html#course-7pavnlps-natural-language-processing-nlp",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVNLPS Natural Language Processing (NLP)",
+    "text": "Course: 7PAVNLPS Natural Language Processing (NLP)\n\nStrengths (S):\n\nDirectly aligned with dissertation research on NLP and RAG systems, providing immediate methodological support.\n\nExisting experience in Python and text mining facilitated faster adaptation.\n\n\nWeaknesses (W):\n\nLimited understanding of the theoretical foundations of deep learning models such as Transformer, BERT, and SciBERT.\n\nLack of extensive hands-on experience with hyperparameter tuning and evaluation.\n\n\nOpportunities (O):\n\nNLP is a cutting-edge field highly relevant to health informatics, enhancing prospects for PhD applications and career opportunities.\n\nCoursework and dissertation outcomes can be integrated into the ePortfolio and academic presentations.\n\n\nThreats (T):\n\nThe rapid development of NLP poses a risk of knowledge becoming outdated without continuous learning.\n\nDissertation heavily depends on NLP methods, so insufficient mastery could affect final outcomes."
+  },
+  {
+    "objectID": "swot.html#course-7pavciae-causal-modelling-and-evaluation",
+    "href": "swot.html#course-7pavciae-causal-modelling-and-evaluation",
+    "title": "SWOT Analysis",
+    "section": "Course: 7PAVCIAE Causal Modelling and Evaluation",
+    "text": "Course: 7PAVCIAE Causal Modelling and Evaluation\n\nStrengths (S):\n\nStrong statistical foundation from undergraduate studies supports causal inference learning.\n\nAcquired practical methods such as Propensity Score Matching (PSM), Inverse Probability of Treatment Weighting (IPTW), and Instrumental Variables (IV).\n\nConfident in implementing models in both Stata and R.\n\n\nWeaknesses (W):\n\nDeeper understanding still needed for advanced methods (e.g., mediation analysis, dynamic treatment regimes).\n\nAcademic writing and logical explanation of causal effects and assumptions require further refinement.\n\n\nOpportunities (O):\n\nCausal inference has wide applications in health data research and real-world evidence studies.\n\nHighly relevant for future PhD research and industry roles in pharma/health data science.\n\n\nThreats (T):\n\nResults are highly sensitive to data quality and modelling assumptions; errors can lead to biased conclusions.\n\nGrowing demand for causal inference expertise makes the job market increasingly competitive."
+  },
+  {
+    "objectID": "seminars.html",
+    "href": "seminars.html",
+    "title": "Seminar Series & Skills Workshops Reflections",
+    "section": "",
+    "text": "Introduction to the ePortfolio and Transition to the MSc (23/09/2024)\nHelped me quickly understand the structure and assessment requirements of the ePortfolio, supporting a smooth transition into the MSc.\nReflection, Goal Setting and Action Planning (30/09/2024)\nIntroduced reflection models (e.g., Gibbs) and SMART goal-setting, which guided my academic and personal planning.\nPractical Tools (Quarto and Friends, 14/10/2024)\nProvided hands-on training with Quarto, which became the foundation for preparing my ePortfolio and coursework.\nCritical Reading and Journal Club (21/10/2024)\nImproved my ability to critically analyse academic papers and strengthened oral communication during journal discussions.\nFinding and Evaluating Research: Library Services (04/11/2024)\nEnhanced my skills in literature search and database use, improving the efficiency of reviews and assignments.\nGenerative AI (07/11/2024)\nOffered a balanced perspective on opportunities and risks of generative AI, guiding my responsible use of AI in research.\nWriting Workshop (11/11/2024)\nStrengthened my academic writing, particularly in structuring arguments and refining style.\nMarketing of Yourself (18/11/2024, rescheduled)\nShowed me how to better present my skills and experiences through CVs, cover letters, and interviews.\nePortfolio Workshop (02/12/2024)\nHelped me align reflections with evidence and career goals for stronger ePortfolio impact.\n\n\n\n\n\n\nResearch Project Workshop (13/01/2025)\nSupported planning of my dissertation, from research design to data management.\nEthics in Research (20/01/2025)\nReinforced the importance of ethics, data privacy, and research accountability, especially relevant to EHR data.\nReproducibility Crisis (03/02/2025)\nHighlighted the importance of transparency and reproducibility, which I applied to my own coding and data management.\nePortfolio Workshop (10/02/2025)\nHelped refine my portfolio structure, ensuring coherence between reflections, evidence, and career narrative.\nResilience, Adaptability, Wellness (24/02/2025)\nOffered strategies to maintain mental health and adaptability under academic and personal pressure, essential during dissertation writing.\nEthics in AI (24/03/2025)\nExplored fairness, bias, and responsibility in AI applications, directly relevant to my NLP + EHR research project.\n\n\n\n\n\n\nInterview Skills (12/05/2025)\nImproved my ability to answer both technical and behavioural questions confidently.\nPosters and Presentations (02/06/2025)\nProvided practical guidance on poster and presentation design, directly supporting my MSc Poster Showcase.\nePortfolio Workshop (16/06/2025)\nClarified submission requirements and helped finalise layout and reflective writing.\nCultural Competency in Research (30/06/2025)\nEmphasised cultural sensitivity in research design and interpretation, making me more aware of diversity issues in health data.\n\n\n\n\n\n\nLearning: Strengthened my academic writing, literature reading, and technical skills, enhancing both efficiency and outcomes.\n\nEmployability: Improved my CV, interview techniques, and career planning, building confidence in job applications.\n\nResearch: Ethics and AI seminars shaped my dissertation approach, ensuring that my RAG system design accounted for compliance and social responsibility."
+  },
+  {
+    "objectID": "seminars.html#semester-1",
+    "href": "seminars.html#semester-1",
+    "title": "Seminar Series & Skills Workshops Reflections",
+    "section": "",
+    "text": "Introduction to the ePortfolio and Transition to the MSc (23/09/2024)\nHelped me quickly understand the structure and assessment requirements of the ePortfolio, supporting a smooth transition into the MSc.\nReflection, Goal Setting and Action Planning (30/09/2024)\nIntroduced reflection models (e.g., Gibbs) and SMART goal-setting, which guided my academic and personal planning.\nPractical Tools (Quarto and Friends, 14/10/2024)\nProvided hands-on training with Quarto, which became the foundation for preparing my ePortfolio and coursework.\nCritical Reading and Journal Club (21/10/2024)\nImproved my ability to critically analyse academic papers and strengthened oral communication during journal discussions.\nFinding and Evaluating Research: Library Services (04/11/2024)\nEnhanced my skills in literature search and database use, improving the efficiency of reviews and assignments.\nGenerative AI (07/11/2024)\nOffered a balanced perspective on opportunities and risks of generative AI, guiding my responsible use of AI in research.\nWriting Workshop (11/11/2024)\nStrengthened my academic writing, particularly in structuring arguments and refining style.\nMarketing of Yourself (18/11/2024, rescheduled)\nShowed me how to better present my skills and experiences through CVs, cover letters, and interviews.\nePortfolio Workshop (02/12/2024)\nHelped me align reflections with evidence and career goals for stronger ePortfolio impact."
+  },
+  {
+    "objectID": "seminars.html#semester-2",
+    "href": "seminars.html#semester-2",
+    "title": "Seminar Series & Skills Workshops Reflections",
+    "section": "",
+    "text": "Research Project Workshop (13/01/2025)\nSupported planning of my dissertation, from research design to data management.\nEthics in Research (20/01/2025)\nReinforced the importance of ethics, data privacy, and research accountability, especially relevant to EHR data.\nReproducibility Crisis (03/02/2025)\nHighlighted the importance of transparency and reproducibility, which I applied to my own coding and data management.\nePortfolio Workshop (10/02/2025)\nHelped refine my portfolio structure, ensuring coherence between reflections, evidence, and career narrative.\nResilience, Adaptability, Wellness (24/02/2025)\nOffered strategies to maintain mental health and adaptability under academic and personal pressure, essential during dissertation writing.\nEthics in AI (24/03/2025)\nExplored fairness, bias, and responsibility in AI applications, directly relevant to my NLP + EHR research project."
+  },
+  {
+    "objectID": "seminars.html#semester-3",
+    "href": "seminars.html#semester-3",
+    "title": "Seminar Series & Skills Workshops Reflections",
+    "section": "",
+    "text": "Interview Skills (12/05/2025)\nImproved my ability to answer both technical and behavioural questions confidently.\nPosters and Presentations (02/06/2025)\nProvided practical guidance on poster and presentation design, directly supporting my MSc Poster Showcase.\nePortfolio Workshop (16/06/2025)\nClarified submission requirements and helped finalise layout and reflective writing.\nCultural Competency in Research (30/06/2025)\nEmphasised cultural sensitivity in research design and interpretation, making me more aware of diversity issues in health data."
+  },
+  {
+    "objectID": "seminars.html#overall-reflection",
+    "href": "seminars.html#overall-reflection",
+    "title": "Seminar Series & Skills Workshops Reflections",
+    "section": "",
+    "text": "Learning: Strengthened my academic writing, literature reading, and technical skills, enhancing both efficiency and outcomes.\n\nEmployability: Improved my CV, interview techniques, and career planning, building confidence in job applications.\n\nResearch: Ethics and AI seminars shaped my dissertation approach, ensuring that my RAG system design accounted for compliance and social responsibility."
+  },
+  {
+    "objectID": "index.html#short-term-612-months",
+    "href": "index.html#short-term-612-months",
+    "title": "MSc ePortfolio",
+    "section": "Short-Term (6–12 months)",
+    "text": "Short-Term (6–12 months)\n\nComplete my dissertation and MSc degree successfully.\n\nApply for data analysis, health-tech, or pharmaceutical roles to gain practical experience.\n\nStrengthen my academic writing and research communication skills."
+  },
+  {
+    "objectID": "index.html#mid-term-12-years",
+    "href": "index.html#mid-term-12-years",
+    "title": "MSc ePortfolio",
+    "section": "Mid-Term (1–2 years)",
+    "text": "Mid-Term (1–2 years)\n\nGain professional experience in health informatics or Real-World Evidence (RWE) research.\n\nLead independent projects in data analysis or health research.\n\nExpand international academic and professional networks."
+  },
+  {
+    "objectID": "index.html#long-term-25-years",
+    "href": "index.html#long-term-25-years",
+    "title": "MSc ePortfolio",
+    "section": "Long-Term (2–5 years)",
+    "text": "Long-Term (2–5 years)\n\nPursue a PhD focusing on causal inference and machine learning applications in healthcare.\n\nBuild professional influence in academia or industry, driving data-informed healthcare decisions.\n\nExplore interdisciplinary research bridging AI technologies and clinical practice."
+  },
+  {
+    "objectID": "evidence.html",
+    "href": "evidence.html",
+    "title": "Portfolio of Evidence",
+    "section": "",
+    "text": "This section showcases four representative academic outputs from my MSc journey, covering research, coursework, and causal inference analysis. Together, they highlight my core competencies in health informatics, NLP, causal inference, and multilevel modelling.\n\n\n\n\nTopic: Retrieval-Augmented Generation (RAG) system for Electronic Health Records (EHR)\n\nOutcome: Built a clinical Q&A system on the MIMIC-IV dataset (14,000+ patients), achieving ~60% accuracy.\n\nHighlights: Integrated MiniLM embeddings, Chroma/FAISS vector databases, and LangChain pipelines; developed interactive interfaces for query and summarisation.\n\nFile: 📄 View Poster PDF\n\n\n\n\n\n\nTopic: Natural Language Processing and Deep Learning applied to clinical text\n\nOutcome: Completed coursework exploring Transformer/BERT models for medical text classification and information extraction.\n\nHighlights: Implemented preprocessing, model training, and evaluation, demonstrating the applicability of NLP to healthcare data.\n\nFile: 📄 View NLP Report PDF\n\n\n\n\n\nTopic: Survival analysis within multilevel and longitudinal modelling\n\nOutcome: Applied survival analysis techniques in R to model time-to-event outcomes in health data.\n\nHighlights: Implemented Cox proportional hazards models and extensions, explored stratification and covariate effects, and interpreted survival curves in a health informatics context.\n\nFile: 📄 View Multilevel Report PDF\n\n\n\n\n\n\nTopic: Application of machine learning methods to health and genomic datasets\n\nOutcome: Explored supervised and unsupervised ML approaches for patient data classification and feature selection.\n\nHighlights: Implemented algorithms such as Random Forests, Support Vector Machines, and Neural Networks to evaluate predictive performance.\n\nReflection: While my exam performance was weaker than expected, the coursework significantly strengthened my coding skills and deepened my understanding of model evaluation and reproducibility.\n\nFile: 📄 View Coding"
+  },
+  {
+    "objectID": "evidence.html#msc-dissertation-poster-rag-for-ehr",
+    "href": "evidence.html#msc-dissertation-poster-rag-for-ehr",
+    "title": "Portfolio of Evidence",
+    "section": "",
+    "text": "Topic: Retrieval-Augmented Generation (RAG) system for Electronic Health Records (EHR)\n\nOutcome: Built a clinical Q&A system on the MIMIC-IV dataset (14,000+ patients), achieving ~60% accuracy.\n\nHighlights: Integrated MiniLM embeddings, Chroma/FAISS vector databases, and LangChain pipelines; developed interactive interfaces for query and summarisation.\n\nFile: 📄 View Poster PDF"
+  },
+  {
+    "objectID": "evidence.html#nlp-coursework",
+    "href": "evidence.html#nlp-coursework",
+    "title": "Portfolio of Evidence",
+    "section": "",
+    "text": "Topic: Natural Language Processing and Deep Learning applied to clinical text\n\nOutcome: Completed coursework exploring Transformer/BERT models for medical text classification and information extraction.\n\nHighlights: Implemented preprocessing, model training, and evaluation, demonstrating the applicability of NLP to healthcare data.\n\nFile: 📄 View NLP Report PDF"
+  },
+  {
+    "objectID": "evidence.html#multilevel-and-longitudinal-modelling-coursework",
+    "href": "evidence.html#multilevel-and-longitudinal-modelling-coursework",
+    "title": "Portfolio of Evidence",
+    "section": "",
+    "text": "Topic: Survival analysis within multilevel and longitudinal modelling\n\nOutcome: Applied survival analysis techniques in R to model time-to-event outcomes in health data.\n\nHighlights: Implemented Cox proportional hazards models and extensions, explored stratification and covariate effects, and interpreted survival curves in a health informatics context.\n\nFile: 📄 View Multilevel Report PDF"
+  },
+  {
+    "objectID": "evidence.html#machine-learning-for-health-and-bioinformatics-coursework",
+    "href": "evidence.html#machine-learning-for-health-and-bioinformatics-coursework",
+    "title": "Portfolio of Evidence",
+    "section": "",
+    "text": "Topic: Application of machine learning methods to health and genomic datasets\n\nOutcome: Explored supervised and unsupervised ML approaches for patient data classification and feature selection.\n\nHighlights: Implemented algorithms such as Random Forests, Support Vector Machines, and Neural Networks to evaluate predictive performance.\n\nReflection: While my exam performance was weaker than expected, the coursework significantly strengthened my coding skills and deepened my understanding of model evaluation and reproducibility.\n\nFile: 📄 View Coding"
+  },
+  {
+    "objectID": "career_readiness.html",
+    "href": "career_readiness.html",
+    "title": "Career Readiness Reflection",
+    "section": "",
+    "text": "During my MSc studies, I gradually refined my career direction: from an initial focus on statistical analyst roles to health data science, real-world evidence (RWE) research, and AI applications in healthcare.\n\nThrough coursework and dissertation work, I developed strong interdisciplinary skills (statistical modelling × NLP × health informatics), which form a solid foundation for future opportunities.\n\nI am considering two possible pathways:\n\nPhD Research – pursuing advanced study in the intersection of causal inference, NLP, and health data.\n\nIndustry Employment – applying for roles in pharmaceutical companies, healthcare AI firms, or health data analysis teams.\n\n\n\n\n\n\n\nI have begun preparing application materials for industry roles, with multiple revisions of my Master CV and personal statement.\n\nFrom Careers Workshop mock interviews, I received constructive feedback:\n\nStrengths: Research experience and interdisciplinary background are clear assets; technical skills (Python, R, Stata) are well demonstrated in applied contexts.\n\nAreas to Improve: Need to articulate career goals more clearly during interviews, and explicitly link project outcomes to role requirements.\n\n\nWhile I have not yet secured a formal interview, the practice sessions and feedback have increased my confidence in self-presentation.\n\n\n\n\n\n\nAttended Careers Service CV and cover letter workshops, receiving personalised advice.\n\nParticipated in King’s Edge Employability sessions, which enhanced my understanding of networking and career planning.\n\nUsed the Careers Connect platform to search and apply for positions in health data science and RWE.\n\n\n\n\n\n\nAcademic Path: If pursuing a PhD, I need to strengthen my research proposal writing and academic communication skills.\n\nIndustry Path: For professional roles, I plan to build additional GitHub projects and case studies to showcase technical applications.\n\nSoft Skills: Continue improving self-presentation and communication in interview and networking contexts."
+  },
+  {
+    "objectID": "career_readiness.html#overall-readiness",
+    "href": "career_readiness.html#overall-readiness",
+    "title": "Career Readiness Reflection",
+    "section": "",
+    "text": "During my MSc studies, I gradually refined my career direction: from an initial focus on statistical analyst roles to health data science, real-world evidence (RWE) research, and AI applications in healthcare.\n\nThrough coursework and dissertation work, I developed strong interdisciplinary skills (statistical modelling × NLP × health informatics), which form a solid foundation for future opportunities.\n\nI am considering two possible pathways:\n\nPhD Research – pursuing advanced study in the intersection of causal inference, NLP, and health data.\n\nIndustry Employment – applying for roles in pharmaceutical companies, healthcare AI firms, or health data analysis teams."
+  },
+  {
+    "objectID": "career_readiness.html#applications-and-feedback",
+    "href": "career_readiness.html#applications-and-feedback",
+    "title": "Career Readiness Reflection",
+    "section": "",
+    "text": "I have begun preparing application materials for industry roles, with multiple revisions of my Master CV and personal statement.\n\nFrom Careers Workshop mock interviews, I received constructive feedback:\n\nStrengths: Research experience and interdisciplinary background are clear assets; technical skills (Python, R, Stata) are well demonstrated in applied contexts.\n\nAreas to Improve: Need to articulate career goals more clearly during interviews, and explicitly link project outcomes to role requirements.\n\n\nWhile I have not yet secured a formal interview, the practice sessions and feedback have increased my confidence in self-presentation."
+  },
+  {
+    "objectID": "career_readiness.html#engagement-with-careers-employability-kings-edge",
+    "href": "career_readiness.html#engagement-with-careers-employability-kings-edge",
+    "title": "Career Readiness Reflection",
+    "section": "",
+    "text": "Attended Careers Service CV and cover letter workshops, receiving personalised advice.\n\nParticipated in King’s Edge Employability sessions, which enhanced my understanding of networking and career planning.\n\nUsed the Careers Connect platform to search and apply for positions in health data science and RWE."
+  },
+  {
+    "objectID": "career_readiness.html#future-development-areas",
+    "href": "career_readiness.html#future-development-areas",
+    "title": "Career Readiness Reflection",
+    "section": "",
+    "text": "Academic Path: If pursuing a PhD, I need to strengthen my research proposal writing and academic communication skills.\n\nIndustry Path: For professional roles, I plan to build additional GitHub projects and case studies to showcase technical applications.\n\nSoft Skills: Continue improving self-presentation and communication in interview and networking contexts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "action_plan.html",
+    "href": "action_plan.html",
+    "title": "Action Plan",
+    "section": "",
+    "text": "Academic Development: Completed the majority of MSc modules, gaining knowledge in causal modelling, multilevel modelling, NLP, and machine learning for health data. Dissertation (RAG-based Clinical QA System for EHRs) has reached the stage of completed experiments and analysis.\n\nSkills Growth: Significantly improved proficiency in Python, R, and Stata; built cross-disciplinary analytical abilities.\n\nCareer Preparation: Refined Master CV through multiple iterations, attended Careers Workshops and mock interviews, strengthening professional positioning and self-presentation.\n\nNetworking: Established initial connections with industry mentors through university events, receiving practical career advice."
+  },
+  {
+    "objectID": "action_plan.html#on-track",
+    "href": "action_plan.html#on-track",
+    "title": "Action Plan",
+    "section": "",
+    "text": "Academic Development: Completed the majority of MSc modules, gaining knowledge in causal modelling, multilevel modelling, NLP, and machine learning for health data. Dissertation (RAG-based Clinical QA System for EHRs) has reached the stage of completed experiments and analysis.\n\nSkills Growth: Significantly improved proficiency in Python, R, and Stata; built cross-disciplinary analytical abilities.\n\nCareer Preparation: Refined Master CV through multiple iterations, attended Careers Workshops and mock interviews, strengthening professional positioning and self-presentation.\n\nNetworking: Established initial connections with industry mentors through university events, receiving practical career advice."
+  },
+  {
+    "objectID": "action_plan.html#what-has-changed",
+    "href": "action_plan.html#what-has-changed",
+    "title": "Action Plan",
+    "section": "🔄 What Has Changed",
+    "text": "🔄 What Has Changed\n\nResearch Interests: Initially focused on traditional statistical modelling, but shifted towards NLP + causal inference + health data through dissertation research.\n\nCareer Direction: Early career goals were more aligned with statistical analyst roles; now increasingly oriented toward health data science, real-world evidence (RWE), and AI in healthcare/pharma.\n\nSkills Gaps Identified: Recognised the need to improve academic writing and deep learning model optimisation through coursework and dissertation practice.\n\nTime Planning: Originally adopted a flexible application schedule, but with graduation approaching, greater urgency and efficiency are required."
+  },
+  {
+    "objectID": "action_plan.html#next-steps",
+    "href": "action_plan.html#next-steps",
+    "title": "Action Plan",
+    "section": "🚀 Next Steps",
+    "text": "🚀 Next Steps\n\nShort-Term Goals (Next 6 Months, pre-graduation):\n\nFinalise and submit MSc dissertation; prepare to adapt results into a publishable academic paper.\n\nDevelop 2–3 showcase GitHub projects focusing on NLP and causal inference as part of a professional portfolio.\n\nMid-Term Goals (Within 1 Year post-graduation):\n\nApply for roles in the UK or China in health data science, RWE research, or AI-driven healthcare companies, gaining industry experience.\n\nAttend academic conferences or workshops to expand professional and research networks.\n\nStrengthen deep learning and academic writing skills to address current weaknesses.\n\nLong-Term Goals (3–5 Years):\n\nAfter building industry experience, pursue a PhD focusing on Causal Inference × NLP × Health Data.\n\nDevelop an interdisciplinary professional profile that bridges academic research and applied practice in health informatics."
+  },
+  {
+    "objectID": "Cv.html#summary-statement",
+    "href": "Cv.html#summary-statement",
+    "title": "Curriculum Vitae",
+    "section": "✨ Summary Statement",
+    "text": "✨ Summary Statement\nA Master’s graduate in Applied Statistical Modelling & Health Informatics at King’s College London, with strong skills in data analysis, machine learning, and causal inference. Experienced in working with large-scale healthcare datasets (MIMIC-IV, 14k+ patients) and building Retrieval-Augmented Generation (RAG) NLP systems for clinical information retrieval. Skilled in Python, R, and Stata, with internship experience in customer data analysis and business intelligence. Seeking opportunities in the pharmaceutical or health-tech sector to apply advanced analytics and AI to real-world healthcare challenges."
+  },
+  {
+    "objectID": "Cv.html#education",
+    "href": "Cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nMSc Applied Statistical Modelling and Health Informatics, King’s College London (2024 – present)\n- Modules: Causal Modelling and Evaluation; Introduction to Health Informatics; Multilevel and Longitudinal Modelling; Bioinformatics, Interpretation and Data Quality in Genome Analysis\nBSc Applied Statistics, Shanghai Lixin University of Accounting and Finance (2020 – 2024)\n- Grade: 88.83/100\n- Modules: Mathematical Statistics (85); Applied Time Series Analysis (92); Applied Regression Analysis (81); Applied Multivariate Statistical Analysis (93); Statistical Computing (Python) (94); Statistical Machine Learning (97)"
+  },
+  {
+    "objectID": "Cv.html#internships",
+    "href": "Cv.html#internships",
+    "title": "Curriculum Vitae",
+    "section": "💼 Internships",
+    "text": "💼 Internships\nCustomer Data Analysis, Atlas Copco (Apr 2024 – Jun 2024)\n- Expanded the SharePoint platform, organised AI Brain tool files, and implemented automated dialogue.\n- Managed 200+ documents in SharePoint, enhancing accessibility and reducing retrieval time by 40%.\n- Visualised 120,000+ customer data points with Power BI, contributing to sales productivity."
+  },
+  {
+    "objectID": "Cv.html#research-modelling-experience",
+    "href": "Cv.html#research-modelling-experience",
+    "title": "Curriculum Vitae",
+    "section": "🔬 Research & Modelling Experience",
+    "text": "🔬 Research & Modelling Experience\nMSc Dissertation Project, Large Language Models (LLMs) for Electronic Health Records (Nov 2024 – Jun 2025)\n- Built a Retrieval-Augmented Generation (RAG) clinical Q&A system for patient record summarisation and retrieval, achieving 60% accuracy on MIMIC-IV dataset (14,000+ patients).\n- Applied MiniLM embeddings, Chroma/FAISS vector databases, and LangChain pipelines to enhance retrieval & generation.\n- Developed interactive interfaces (Streamlit/Gradio) for real-world clinical query and summary display.\nBachelor’s Thesis, Semantic Context Analysis Based on Machine Learning – Sina Weibo Rumour Detection (2024)\n- Collected 6000+ raw data entries via Python web scraping; cleaned data to retain 3516 valid entries.\n- Extracted features with Word2Vec and applied Stacking for model ensembling.\nNational University Student Data Analysis Competition – 1st Prize (Dec 2022 – Jan 2023)\n- Analysed 6000+ Taobao pharmaceutical sales records.\n- Applied Python & R to clean data, establish ARIMA, seasonal ARIMA, Holt-Winters, exponential smoothing, and KNN time-series models.\n- Conducted SWOT and 4Ps marketing strategy analysis; developed operational indicators for new brands.\nAsia & Pacific Mathematical Contest in Modelling (AMPCM) – 2nd Prize, Group Leader (Nov 2022)\n- Forecasted global temperature trends using data (1722–2022).\n- Built models including ARIMA, KNN, Lasso, XGBoost (Python/R).\n- Coordinated task allocation, model design, and thesis writing.\nMathematical Contest in Modelling (MCM) – Honourable Mention, Group Leader (Feb 2023)\n- Predicted Wordle game user growth using 360+ data points.\n- Extracted word entropy, vowel frequency; applied K-means & ML models for classification and prediction."
+  },
+  {
+    "objectID": "Cv.html#campus-experience",
+    "href": "Cv.html#campus-experience",
+    "title": "Curriculum Vitae",
+    "section": "🏫 Campus Experience",
+    "text": "🏫 Campus Experience\nHead of Reporting Department, Lixin University Media Center (Jun 2021 – Jul 2022)\n- Directed reporting team operations: interviews, features, event coverage.\n- Edited and reviewed submissions to ensure quality and accuracy.\n- Coordinated major events such as press conferences and anniversary activities."
+  },
+  {
+    "objectID": "Cv.html#awards",
+    "href": "Cv.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "🏅 Awards",
+    "text": "🏅 Awards\n\nShanghai Outstanding Graduate (2024)\n\nMerit Student (2021–2022)\n\nOutstanding Student Leader (2020–2021)\n\nMerit Student Scholarship 1st Prize (2020–2021)\n\nMerit Student Scholarship 2nd Prize (2021–2022; 2022–2023)"
+  },
+  {
+    "objectID": "Cv.html#skills",
+    "href": "Cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "🛠 Skills",
+    "text": "🛠 Skills\n\nTechnical: Python, R, SPSS, Stata, Power BI, Galaxy\n\nLanguages: English (IELTS 6.5; CET-6: 518; CET-4: 530), Mandarin"
+  },
+  {
+    "objectID": "Cv.html#volunteering",
+    "href": "Cv.html#volunteering",
+    "title": "Curriculum Vitae",
+    "section": "🤝 Volunteering",
+    "text": "🤝 Volunteering\n\nOutstanding Volunteer – Robotex Asia 2021\n\nVolunteer – China International Consumer Goods Expo 2021"
+  },
+  {
+    "objectID": "final_reflection.html",
+    "href": "final_reflection.html",
+    "title": "Final Reflective Piece",
+    "section": "",
+    "text": "Looking back on this MSc journey, I would tell my past self:\n- Stay open-minded: Do not fear unfamiliar domains; growth often comes from moments of discomfort.\n- Embrace mistakes: Errors in experiments, code failures, and missteps are not setbacks but essential steps in learning.\n- Learn to prioritise: It is not possible to do everything perfectly—focus on the core objectives and keep momentum.\n- Seek support proactively: Supervisors, peers, and career services are invaluable sources of guidance at critical points.\n\n\n\n\n\nDepth of reflection: At the beginning, I was focused only on completing tasks; later, I realised that reflection itself is a powerful tool for learning and growth.\n\nScientific storytelling: Beyond results, it is crucial to communicate why the research matters, how it was done, and what impact it brings.\n\nInterdisciplinary language: The ability to communicate across statisticians, computer scientists, and clinicians is essential, translating complex concepts for different audiences.\n\nLong-term vision: Initially, I concentrated on immediate tasks, but gradually I learned to connect my academic development with my professional trajectory.\n\n\n\n\n\n\nPersonal: I want to sustain curiosity and intrinsic motivation, continuing to find my place in the fast-evolving intersection of AI and health data.\n\nProfessional: Whether entering industry or pursuing a PhD, my goal is not just to be someone who can code and model, but someone who can ask meaningful questions and help deliver practical solutions.\n\nLong-term vision: In the next 5–10 years, I aspire to become a bridge between academic research and clinical application, ensuring that technology meaningfully serves healthcare and public health."
+  },
+  {
+    "objectID": "final_reflection.html#in-hindsight-advice-to-my-past-self",
+    "href": "final_reflection.html#in-hindsight-advice-to-my-past-self",
+    "title": "Final Reflective Piece",
+    "section": "",
+    "text": "Looking back on this MSc journey, I would tell my past self:\n- Stay open-minded: Do not fear unfamiliar domains; growth often comes from moments of discomfort.\n- Embrace mistakes: Errors in experiments, code failures, and missteps are not setbacks but essential steps in learning.\n- Learn to prioritise: It is not possible to do everything perfectly—focus on the core objectives and keep momentum.\n- Seek support proactively: Supervisors, peers, and career services are invaluable sources of guidance at critical points."
+  },
+  {
+    "objectID": "final_reflection.html#missing-skills-what-i-realised-i-lacked",
+    "href": "final_reflection.html#missing-skills-what-i-realised-i-lacked",
+    "title": "Final Reflective Piece",
+    "section": "",
+    "text": "Depth of reflection: At the beginning, I was focused only on completing tasks; later, I realised that reflection itself is a powerful tool for learning and growth.\n\nScientific storytelling: Beyond results, it is crucial to communicate why the research matters, how it was done, and what impact it brings.\n\nInterdisciplinary language: The ability to communicate across statisticians, computer scientists, and clinicians is essential, translating complex concepts for different audiences.\n\nLong-term vision: Initially, I concentrated on immediate tasks, but gradually I learned to connect my academic development with my professional trajectory."
+  },
+  {
+    "objectID": "final_reflection.html#future-growth-what-comes-next",
+    "href": "final_reflection.html#future-growth-what-comes-next",
+    "title": "Final Reflective Piece",
+    "section": "",
+    "text": "Personal: I want to sustain curiosity and intrinsic motivation, continuing to find my place in the fast-evolving intersection of AI and health data.\n\nProfessional: Whether entering industry or pursuing a PhD, my goal is not just to be someone who can code and model, but someone who can ask meaningful questions and help deliver practical solutions.\n\nLong-term vision: In the next 5–10 years, I aspire to become a bridge between academic research and clinical application, ensuring that technology meaningfully serves healthcare and public health."
+  },
+  {
+    "objectID": "research_reflection.html",
+    "href": "research_reflection.html",
+    "title": "Research Project Reflection",
+    "section": "",
+    "text": "Note\n\n\n\nChosen Reflective Model: Gibbs Reflective Cycle\nReason: This model clearly follows the structure What happened → So what → Now what, which helps me to systematically analyse experiences and link them to SMART action planning."
+  },
+  {
+    "objectID": "research_reflection.html#project-summary",
+    "href": "research_reflection.html#project-summary",
+    "title": "Research Project Reflection",
+    "section": "📌 Project Summary",
+    "text": "📌 Project Summary\nMy MSc dissertation project focuses on the Application of Large Language Models (LLMs) for Electronic Health Records summarisation and patient search.\nThe objective was to build a Retrieval-Augmented Generation (RAG) clinical Q&A system for patient record summarisation and information retrieval.\n\nMethods\n\nUsed MiniLM embeddings to vectorise clinical notes.\n\nApplied Chroma/FAISS vector databases for similarity search.\n\nBuilt the full RAG pipeline with LangChain, including document chunking, embedding, retriever, reranker, and generation.\n\nDeveloped interactive interfaces with Streamlit and Gradio to simulate clinical information retrieval scenarios.\n\nEvaluated performance on the EHRNoteQA dataset using Accuracy, F1, and RAGAS metrics.\n\nOutcomes\n\nAchieved ~60% accuracy on the MIMIC-IV dataset (14,000+ patients).\n\nDemonstrated the feasibility of RAG for EHR-based summarisation and clinical Q&A.\n\nEstablished a baseline for future improvements (e.g., reranker integration, knowledge graph, multimodal data).\n\nMy Contribution\nI independently handled the entire pipeline: data preprocessing, system design, evaluation, and interface development.\nThis process significantly enhanced my technical, analytical, and research skills."
+  },
+  {
+    "objectID": "research_reflection.html#model-flowchart",
+    "href": "research_reflection.html#model-flowchart",
+    "title": "Research Project Reflection",
+    "section": "🔄 Model Flowchart",
+    "text": "🔄 Model Flowchart\nBelow is a simplified diagram of the RAG pipeline used in my project:"
+  },
+  {
+    "objectID": "research_reflection.html#skills-development",
+    "href": "research_reflection.html#skills-development",
+    "title": "Research Project Reflection",
+    "section": "🌱 Skills Development",
+    "text": "🌱 Skills Development\n\nProject Management: Planned milestones and balanced dissertation, coursework, and personal commitments.\n\nData Engineering: Learned EHR text preprocessing, semantic chunking, embedding generation, and database optimisation.\n\nProgramming & Tools: Proficient with Python, LangChain, FAISS/Chroma, Streamlit, and Gradio.\n\nResearch Skills: Critically evaluated model outputs and compared different evaluation metrics.\n\nAcademic Communication: Presented results in poster sessions and supervisory meetings with clarity.\n\nCritical Thinking: Reflected not only on performance metrics but also on clinical usability and applicability."
+  },
+  {
+    "objectID": "research_reflection.html#challenges-and-solutions",
+    "href": "research_reflection.html#challenges-and-solutions",
+    "title": "Research Project Reflection",
+    "section": "⚡ Challenges and Solutions",
+    "text": "⚡ Challenges and Solutions\n\nTechnical: Large embedding batches caused memory issues.\nSolution: Applied batch embedding, semantic chunking, and optimised Chroma indexing.\nData: Long EHR texts contained redundancy and noise, lowering retrieval precision.\nSolution: Designed semantic chunking strategies and added a Cohere reranker.\nEvaluation: Accuracy, F1, BLEU, and RAGAS gave inconsistent conclusions.\nSolution: Adopted a multi-dimensional evaluation framework with quantitative + qualitative analysis.\nTime Pressure: Balancing coursework and dissertation.\nSolution: Used weekly task lists and a Kanban tool to monitor milestones."
+  },
+  {
+    "objectID": "research_reflection.html#reflection-and-growth",
+    "href": "research_reflection.html#reflection-and-growth",
+    "title": "Research Project Reflection",
+    "section": "💡 Reflection and Growth",
+    "text": "💡 Reflection and Growth\n\nExperience: System design should align with real-world needs rather than chasing metrics alone.\n\nGrowth: Transitioned from unfamiliarity with RAG to independently building and evaluating a full pipeline.\n\nImprovement Needed: More rigorous experimental design (control groups, statistical tests); stronger academic writing structure."
+  },
+  {
+    "objectID": "research_reflection.html#smart-next-steps",
+    "href": "research_reflection.html#smart-next-steps",
+    "title": "Research Project Reflection",
+    "section": "🚀 SMART Next Steps",
+    "text": "🚀 SMART Next Steps\n\nSpecific: Integrate a stronger reranker and lightweight knowledge graph; include structured data (labs, prescriptions).\n\nMeasurable: Improve accuracy to ≥70%, raise F1 by ≥10%, and achieve higher RAGAS (Faithfulness, Answer Relevance).\n\nAchievable: Build on existing LangChain + Cohere toolchain; iterate with small-scale experiments.\n\nRelevant: Aligned with my career and research pathway in Health Informatics × NLP.\n\nTime-bound: Complete improvements and a draft publication by December 2025."
+  },
+  {
+    "objectID": "skills_mapping.html",
+    "href": "skills_mapping.html",
+    "title": "Skills Mapping",
+    "section": "",
+    "text": "🌱 Personal Effectiveness\nKey Competencies\n- Time Management: Balanced coursework, dissertation research, and personal life, ensuring all tasks were delivered on time.\n- Resilience: Maintained motivation when facing cross-disciplinary challenges (statistics, informatics, causal inference, genomics).\n- Adaptability: Transitioned smoothly from an undergraduate degree in statistics to an MSc in health informatics, quickly learning about EHRs, RAG, and causal inference.\n- Leadership: Acted as coordinator and presenter in group projects, responsible for task allocation, timeline tracking, and integrating outputs.\nEvidence\n- Led a group presentation in Causal Modelling & Evaluation, structuring the analysis and presenting findings.\n- Coordinated team work in Multilevel & Longitudinal Modelling using R to fit models and interpret results.\n- Independently managed dissertation planning and delivered progress updates at supervisory meetings.\n\n\n\n💼 Employability\nKey Competencies\n- Applications & Interviews: Attended Careers Workshops, revised CV multiple times, and completed mock interviews with feedback.\n- Professional Skills: Developed strong command of Python, R, and Stata through MSc coursework, applied in data cleaning, modelling, and causal inference. Supplemented with Power BI for data visualisation.\n- Networking: Engaged in KCL Careers & Employability events, connecting with guest speakers and alumni.\n- Professionalism: Demonstrated teamwork, academic integrity, and clear communication in group work and research.\nEvidence\n- Causal Modelling & Evaluation: Implemented IPTW and IV methods in Stata.\n- Multilevel & Longitudinal Modelling: Analysed longitudinal health data in R using lme4 and nlme.\n- Bioinformatics & Genomic Data: Applied Python and Galaxy for genomic data QC and interpretation.\n- Introduction to Health Informatics: Processed and visualised EHR datasets with Python.\n\n\n\n📖 Academic Development\nKey Competencies\n- Module Learning:\n- Causal Modelling & Evaluation: Gained applied skills in causal inference methods.\n- Multilevel & Longitudinal Modelling: Learned to analyse repeated measures and health data.\n- Introduction to Health Informatics: Built understanding of EHR structures, standards, and applications.\n- Bioinformatics & Genomic Data: Learned to perform genomic data QC and interpretation.\n- Learning Progress: Shifted from computation-focused work to critical thinking about assumptions, interpretation, and clinical significance.\n- Performance: Scored merit in several modules, showing consistent growth.\nEvidence\n- Coursework essays and group presentations.\n- Lecturer feedback and grading reports.\n- MSc poster presentation (2025 showcase).\n\n\n\n🔬 Research Development\nKey Competencies\n- Methods: Applied NLP and RAG in dissertation research, combining embeddings, retrieval, and generation.\n- Ethics: Understood and complied with ethical and privacy rules for EHR data.\n- Dissemination: Presented work at the ASMHI MSc Poster Showcase (July 2025), receiving constructive feedback; preparing for publication.\n- Communication: Clearly explained technical workflows and clinical implications in meetings and discussions.\n- Future Directions: Plan to advance into doctoral research combining Causal Inference × NLP × Health Data.\nEvidence\n- MSc Dissertation: RAG-based Clinical QA System for EHRs.\n- Experiments on MIMIC-IV dataset (14,000+ patients, ~60% accuracy).\n- Poster at MSc showcase.\n- GitHub repository with project code and documentation."
+  }
+]
